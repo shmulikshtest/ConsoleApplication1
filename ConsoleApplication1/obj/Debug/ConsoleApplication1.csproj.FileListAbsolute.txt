@@ -3,3 +3,6 @@ c:\users\shmuliksh\documents\visual studio 2013\Projects\ConsoleApplication1\Con
 c:\users\shmuliksh\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 c:\users\shmuliksh\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 c:\users\shmuliksh\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Shmulik\ShmulikReposTest\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Shmulik\ShmulikReposTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Shmulik\ShmulikReposTest\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

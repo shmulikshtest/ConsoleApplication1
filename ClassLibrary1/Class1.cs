@@ -10,5 +10,7 @@ namespace ClassLibrary1
     public class Class1
     {
         //Class2 c55 = new Class2();
+=======
+        //Class2 c6 = new Class2();
     }
 }
