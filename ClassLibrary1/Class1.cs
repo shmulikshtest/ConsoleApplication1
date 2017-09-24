@@ -10,6 +10,5 @@ namespace ClassLibrary1
     public class Class1
     {
         Class2 c2 = new Class2();
-        Class2 c22 = new Class2();
     }
 }
